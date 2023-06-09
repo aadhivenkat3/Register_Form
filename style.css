@@ -1,0 +1,16 @@
+button{
+	width:100%;
+	background-color:green;
+	color:white;
+	border:none;
+	cursor:pointer;
+	padding:10px 0px;
+	margin:10px 0px;
+}
+input[type=email],input[type=password]{
+	       border:none;
+		   width:100%;
+		   background-color:lightgray;
+		   padding:10px 5px;
+		   margin:10px -5px;
+}
